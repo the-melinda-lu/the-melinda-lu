@@ -1,4 +1,6 @@
-## Hi there 👋
+This is Melinda! I'm a chemical engineer/biochemist interested in learning how to code.
+
+**Fun Fact**: I love teddy bears (I have a 5ft bear from Costco)
 
 <!--
 **the-melinda-lu/the-melinda-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
