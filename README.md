@@ -1,12 +1,11 @@
-## Hello From Me 👋
+## Hello From Me 👋 
 This is Melinda! I am a Chemical Engineering/Biochemistry student at Northeastern University trying to learn how to code. Here's some facts about me:
 
-🐻 I **love** teddy bears (I have a 5ft teddy bear -- yes, the one from Costco)
+🐻 I **LOVE** teddy bears (I have a 5ft teddy bear -- yes, the one from Costco)
 
 ✂️ My favorite handtools are scissors (most useful tool I've owned to date)
 
 🧊 My favorite 3D printers include: BambuLabs A1 Mini (FDM), FormLabs 4 (SLA)
-
 
 <!--
 **the-melinda-lu/the-melinda-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
