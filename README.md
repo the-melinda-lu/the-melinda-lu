@@ -2,7 +2,9 @@
 This is Melinda! I am a Chemical Engineering/Biochemistry student at Northeastern University trying to learn how to code. Here's some facts about me:
 
 🐻 I **love** teddy bears (I have a 5ft teddy bear -- yes, the one from Costco)
+
 ✂️ My favorite handtools are scissors (most useful tool I've owned to date)
+
 🧊 My favorite 3D printers include: BambuLabs A1 Mini (FDM), FormLabs 4 (SLA)
 
 
